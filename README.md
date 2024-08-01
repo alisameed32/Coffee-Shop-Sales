@@ -1,11 +1,10 @@
 # Coffee-Shop-Sales
 
+https://github.com/user-attachments/assets/0a9d62d0-64c1-4f77-b7b2-5a88995a0a35
+
 Overview
 
 Welcome to the project for the analysis of coffee shop sales! This project's main objective is to examine retail sales data to find practical insights to improve our coffee shop's performance. We want to comprehend consumer behavior spot patterns and make wise judgments to enhance our business operations by looking at several facets of sales data.
-
-[Coffee Shop Sales Analysis Objectives.pdf](https://github.com/user-attachments/files/16456188/Coffee.Shop.Sales.Analysis.Objectives.pdf)
-
 
 Objectives
 
@@ -17,7 +16,10 @@ Objectives
 6. Top-selling items: Determine the best-selling items in terms of both quantity and income.
 7. Product category observations: Recognize the distribution of sales by type and category of products.
 
+
 Dashboard Overview
+
+![Coffee Shop Sales By Ali Sameed 1](https://github.com/user-attachments/assets/f9837671-7018-48e1-a814-2d712097f0b4)
 
 1. Our interactive dashboard provides a comprehensive view of the coffee shop's sales data, offering insights through various visualizations:
 2. Total Sales and Footfall: Displays overall sales revenue and the number of customers.
@@ -30,7 +32,10 @@ Dashboard Overview
 
 By leveraging these insights, we aim to optimize our operations, enhance customer experience, and drive revenue growth.
 
+
 Insights from the Dashboard
+
+![Coffee Shop Sales By Ali Sameed 2](https://github.com/user-attachments/assets/ec75fe18-fe97-4bd6-94bf-043679a87aef)
 
 1. Sales Variation by Day and Hour:
    a. Sales are highest between 9 AM and 12 PM, with a peak around 10 AM.
